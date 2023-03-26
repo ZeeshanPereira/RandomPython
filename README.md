@@ -1,2 +1,2 @@
 # RandomPython
-Bunch of random python programs for practice
+Bunch of random python programs I made to practice coding
